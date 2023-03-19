@@ -1,0 +1,33 @@
+*{
+    font-size: 1.5rem;
+}
+body{
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    border-radius: 5px;
+}
+#pageTitle{
+    color: red;
+}
+#load_prev{
+    background-color: rgb(151, 77, 77);
+    cursor: pointer;
+}
+#load_next{
+    background-color: rgb(187, 120, 120);
+    cursor: pointer;
+    margin-left: 5px;
+}
+li{
+    color: blueviolet;
+    width: 300px;
+    margin: 10px auto;
+    height: fit-content;
+    min-width: 600px;
+    background-color: blanchedalmond;
+    text-align:left;
+    padding: 10px;
+}
